@@ -1,0 +1,8 @@
+[user]
+
+usernumber=2
+usersitenumber=1
+username=bot
+userenabled=t
+userfullname=[Team B] Full team B name
+userdesc=[InstitutionShortName] Long institution name
