@@ -2,19 +2,23 @@
   "languages": [
     {
       "name": "C",
-      "extension": "c"
+      "extension": "c",
+      "id": "1"
     },
     {
       "name": "C++11",
-      "extension": "cpp"
+      "extension": "cpp",
+      "id": "2"
     },
     {
       "name": "Java",
-      "extension": "java"
+      "extension": "java",
+      "id": "3"
     },
     {
       "name": "Python3",
-      "extension": "py"
+      "extension": "py",
+      "id": "5"
     }
   ]
 }
