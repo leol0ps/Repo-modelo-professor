@@ -6,5 +6,5 @@ como utilizar:
 
 - mude a visibilidade do repositório para privado
 
-- faça o upload dos exercicios, e modifique o arquivo submissoes.json
+- faça o upload dos exercicios e modifique o arquivo submissoes.json
 
